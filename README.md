@@ -11,7 +11,7 @@ Os projetos aqui apresentados exploram automação de planilhas, organização d
 ### 📊 Simulação de Investimentos
 Ferramenta desenvolvida em Excel para simular investimentos ao longo do tempo, permitindo analisar rendimentos, dividendos e projeções financeiras com base em diferentes perfis de investidor.
 
-📁 Pasta: [`/simulacao-investimentos`](./simulacao-investimentos)
+📁 Pasta: [`/simulacao-investimentos`](./simulador-investimentos)
 
 Principais recursos:
 - Simulação de investimento inicial  
