@@ -35,6 +35,22 @@ Principais recursos:
 
 ---
 
+### 📊 Dashboard de Vendas
+
+Dashboard desenvolvido em Excel com foco na **organização, análise e visualização estratégica de dados de vendas**, transformando dados brutos em informações claras e acionáveis para apoio à tomada de decisão.
+
+📁 Pasta: [`/dashbaoard-Xbox`](./dashboard-xbox)
+
+#### 🔎 Principais recursos:
+- Tratamento e organização de base de dados  
+- Indicadores de desempenho (KPIs) de vendas  
+- Gráficos dinâmicos e visuais interativos  
+- Análise de faturamento por período  
+- Comparativo de desempenho  
+- Interface objetiva e profissional  
+
+---
+
 ## 🎯 Objetivos do Repositório
 - Aplicar conceitos aprendidos nos cursos da DIO em projetos práticos  
 - Desenvolver soluções funcionais utilizando Excel  
